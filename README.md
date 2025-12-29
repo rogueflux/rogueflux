@@ -26,6 +26,10 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 * **TinyML** inference with an INT8-quantized YOLOv8 Nano model for submarine detection.
 * **Gunshot Detection System:** Implemented a low-latency FPGA-based detection system using FFT and CNN techniques; currently holds a **proxy patent**.
 
+#### **PCB Designing**
+* **Microphone to FPGA Interface Circuit:** This is a PCB with three-channel microphone interface conditions and digitizes analog audio from lapel mics. It amplifies signals 150×, filters noise, and outputs digital data via SPI.
+* **Portable Ventilator Project:** This project designs a combined medical monitoring platform that integrates rehabilitation tracking and portable ventilator functionality into a single ESP32-powered PCB system.
+
 ---
 
 ### 💻 Technical Toolbox
