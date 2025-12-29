@@ -1,7 +1,7 @@
 # 🛠️ Priyanshu Sil | Embedded Systems & SoC Verification Engineer
 
 ### 👨‍💻 About Me
-[cite_start]I am an aspiring SoC Verification and Embedded Systems Engineer currently pursuing a B.Tech in Electronics and Communication at the Manipal Institute of Technology[cite: 105, 108]. [cite_start]I specialize in creating robust digital systems, ranging from UVM-based verification environments for RISC-V processors to deploying TinyML models for maritime defense[cite: 12, 56, 91]. [cite_start]With a background that includes leading hardware projects for DRDO applications and interning in industrial power infrastructure at Tata Power, I focus on building hardware that is both high-performance and mission-critical[cite: 14, 46, 85]. [cite_start]I am driven by the challenge of optimizing signal integrity in PCB design and ensuring design rigor through constrained random verification[cite: 15, 39, 84].
+[cite_start] I am an aspiring SoC Verification and Embedded Systems Engineer currently pursuing a B.Tech in Electronics and Communication at the Manipal Institute of Technology [cite: 105, 108]. [cite_start] I specialize in creating robust digital systems, ranging from UVM-based verification environments for RISC-V processors to deploying TinyML models for maritime defense [cite: 12, 56, 91]. [cite_start] With a background that includes leading hardware projects for DRDO applications and interning in industrial power infrastructure at Tata Power, I focus on building hardware that is both high-performance and mission-critical [cite: 14, 46, 85]. [cite_start] I am driven by the challenge of optimizing signal integrity in PCB design and ensuring design rigor through constrained random verification [cite: 15, 39, 84].
 
 ---
 
