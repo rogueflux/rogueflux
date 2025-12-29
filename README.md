@@ -21,9 +21,10 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 * **AXI4-Lite Protocol:** Built a reusable testbench implementing assertions (SVA), scoreboarding, and functional coverage for SoC interconnect verification.
 
 #### **Autonomous & Defense Systems**
-**WALRUS 2.0 (Rugved Systems/DRDO):** Led the electronics for an autonomous all-terrain bot featuring a custom BMS and STM32-based GPR for landmine detection.
-**Maritime Threat Detection:** Created a real-time surveillance system utilizing **TinyML** inference with an INT8-quantized YOLOv8 Nano model for submarine detection.
-**Gunshot Detection System:** Implemented a low-latency FPGA-based detection system using FFT and CNN techniques; currently holds a **proxy patent**.
+* **WALRUS 2.0 (Rugved Systems/DRDO):** Led the electronics for an autonomous all-terrain bot featuring a custom BMS and STM32-based GPR for landmine detection.
+* **Maritime Threat Detection:** Created a real-time surveillance system utilizing
+* **TinyML** inference with an INT8-quantized YOLOv8 Nano model for submarine detection.
+* **Gunshot Detection System:** Implemented a low-latency FPGA-based detection system using FFT and CNN techniques; currently holds a **proxy patent**.
 
 ---
 
@@ -31,27 +32,27 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]SystemVerilog, Verilog, C/C++, Embedded C, Python, Bash |
-| **Protocols** | [cite_start]AXI4, RISC-V ISA, UVM, LoRa, UART, I2C, SPI, CAN, IEC61850/104 |
-| **Software** | [cite_start]Vivado, STM32CubeIDE, ROS2, MATLAB/Simulink, LTSpice, Ansys |
-| **Infrastructure** | [cite_start]SCADA, MPLS-TP, FRTUs, OTDR Testing, Fiber Splicing |
+| **Languages** | SystemVerilog, Verilog, C/C++, Embedded C, Python, Bash |
+| **Protocols** | AXI4, RISC-V ISA, UVM, LoRa, UART, I2C, SPI, CAN, IEC61850/104 |
+| **Software** |  Vivado, STM32CubeIDE, ROS2, MATLAB/Simulink, LTSpice, Ansys |
+| **Infrastructure** | SCADA, MPLS-TP, FRTUs, OTDR Testing, Fiber Splicing |
 
 ---
 
 ### 📈 Experience & Leadership
-**Electronics Lead @ Rugved Systems:** Leading digital systems development, PCB architecture, and hardware-software integration for autonomous robotics.
-**Communications Intern @ Tata Power:** Configured Field Remote Terminal Units (FRTUs) and gained experience in substation automation and network management.
+* **Electronics Lead @ Rugved Systems:** Leading digital systems development, PCB architecture, and hardware-software integration for autonomous robotics.
+* **Communications Intern @ Tata Power:** Configured Field Remote Terminal Units (FRTUs) and gained experience in substation automation and network management.
 
 ---
 
 ### 🏅 Beyond the Code
-**Competitions:** E-Yantra 2025 (Balancing Builder Bot), BITS Quark RoboRace 2024, and Technoxian Fastest Line Follower.
-**Athletics:** Competitive long-distance runner and member of the XC Cross Country Team (2023–2025).
-**Languages:** English, Hindi, and Bengali.
+* **Competitions:** E-Yantra 2025 (Balancing Builder Bot), BITS Quark RoboRace 2024, and Technoxian Fastest Line Follower.
+* **Athletics:** Competitive long-distance runner and member of the XC Cross Country Team (2023–2025).
+* **Languages:** English, Hindi, and Bengali.
 
 ---
 
 ### 📫 Connect with Me
-**LinkedIn:** [priyanshu-sil-b0a7551b0](https://linkedin.com/in/priyanshu-sil-b0a7551b0)
-**Portfolio:** [priyanshu-sil-portfolio.mgx.world](https://priyanshu-sil-portfolio.mgx.world)
-**Email:** [priyanshu.sil.201529@gmail.com](mailto:priyanshu.sil.201529@gmail.com)
+* **LinkedIn:** [priyanshu-sil-b0a7551b0](https://linkedin.com/in/priyanshu-sil-b0a7551b0)
+* **Portfolio:** [priyanshu-sil-portfolio.mgx.world](https://priyanshu-sil-portfolio.mgx.world)
+* **Email:** [priyanshu.sil.201529@gmail.com](mailto:priyanshu.sil.201529@gmail.com)
