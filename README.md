@@ -7,9 +7,9 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 
 ### Core Expertise
 
-* **SoC Verification:** Expertise in **UVM** and **SystemVerilog**[cite: 12, 84]. [cite_start]Developed verification environments for **PicoRV32 RISC-V** cores and **AXI4-Lite** protocols.
-* **FPGA & VLSI:** Designing digital systems using **Vivado** and **Verilog**[cite: 16, 18, 26]. [cite_start]Implemented real-time **DSP** techniques for gunshot detection systems.
-* **Embedded & TinyML:** Experience with **STM32**, **ESP32**, and **Jetson Nano**[cite: 40, 86, 87]. [cite_start]Successfully deployed **YOLOv8** on STM32H750 using **TensorFlow Lite Micro**.
+* **SoC Verification:** Expertise in **UVM** and **SystemVerilog**. Developed verification environments for **PicoRV32 RISC-V** cores and **AXI4-Lite** protocols.
+* **FPGA & VLSI:** Designing digital systems using **Vivado** and **Verilog**. Implemented real-time **DSP** techniques for gunshot detection systems.
+* **Embedded & TinyML:** Experience with **STM32**, **ESP32**, and **Jetson Nano**. Successfully deployed **YOLOv8** on STM32H750 using **TensorFlow Lite Micro**.
 * **PCB & Hardware:** Architecting multi-layer PCBs with an emphasis on signal integrity using **Altium**, **KiCad**, and **EasyEDA**.
 
 ---
