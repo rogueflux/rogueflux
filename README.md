@@ -7,18 +7,18 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 
 ### 🔬 Core Expertise
 
-**SoC Verification:** Expertise in **UVM** and **SystemVerilog**[cite: 12, 84]. [cite_start]Developed verification environments for **PicoRV32 RISC-V** cores and **AXI4-Lite** protocols.
-**FPGA & VLSI:** Designing digital systems using **Vivado** and **Verilog**[cite: 16, 18, 26]. [cite_start]Implemented real-time **DSP** techniques for gunshot detection systems.
-**Embedded & TinyML:** Experience with **STM32**, **ESP32**, and **Jetson Nano**[cite: 40, 86, 87]. [cite_start]Successfully deployed **YOLOv8** on STM32H750 using **TensorFlow Lite Micro**.
-**PCB & Hardware:** Architecting multi-layer PCBs with an emphasis on signal integrity using **Altium**, **KiCad**, and **EasyEDA**.
+* **SoC Verification:** Expertise in **UVM** and **SystemVerilog**[cite: 12, 84]. [cite_start]Developed verification environments for **PicoRV32 RISC-V** cores and **AXI4-Lite** protocols.
+* **FPGA & VLSI:** Designing digital systems using **Vivado** and **Verilog**[cite: 16, 18, 26]. [cite_start]Implemented real-time **DSP** techniques for gunshot detection systems.
+* **Embedded & TinyML:** Experience with **STM32**, **ESP32**, and **Jetson Nano**[cite: 40, 86, 87]. [cite_start]Successfully deployed **YOLOv8** on STM32H750 using **TensorFlow Lite Micro**.
+* **PCB & Hardware:** Architecting multi-layer PCBs with an emphasis on signal integrity using **Altium**, **KiCad**, and **EasyEDA**.
 
 ---
 
 ### 🚀 Key Projects
 
 #### **SoC & Processor Verification**
-**RISC-V UVM Environment:** Developed a UVM-based verification environment for the PicoRV32 RV32IM core using **RISCV-DV** for random instruction generation.
-**AXI4-Lite Protocol:** Built a reusable testbench implementing assertions (SVA), scoreboarding, and functional coverage for SoC interconnect verification.
+* **RISC-V UVM Environment:** Developed a UVM-based verification environment for the PicoRV32 RV32IM core using **RISCV-DV** for random instruction generation.
+* **AXI4-Lite Protocol:** Built a reusable testbench implementing assertions (SVA), scoreboarding, and functional coverage for SoC interconnect verification.
 
 #### **Autonomous & Defense Systems**
 **WALRUS 2.0 (Rugved Systems/DRDO):** Led the electronics for an autonomous all-terrain bot featuring a custom BMS and STM32-based GPR for landmine detection.
