@@ -1,11 +1,11 @@
-# 🛠️ Priyanshu Sil | Embedded Systems & SoC Verification Engineer
+# Priyanshu Sil | Embedded Systems & SoC Verification Engineer
 
-### 👨‍💻 About Me
+### About Me
 I am an aspiring SoC Verification and Embedded Systems Engineer currently pursuing a B.Tech in Electronics and Communication at the Manipal Institute of Technology. I specialize in creating robust digital systems, ranging from UVM-based verification environments for RISC-V processors to deploying TinyML models for maritime defense. With a background that includes leading hardware projects for DRDO applications and interning in industrial power infrastructure at Tata Power, I focus on building hardware that is both high-performance and mission-critical. I am driven by the challenge of optimizing signal integrity in PCB design and ensuring design rigor through constrained random verification.
 
 ---
 
-### 🔬 Core Expertise
+### Core Expertise
 
 * **SoC Verification:** Expertise in **UVM** and **SystemVerilog**[cite: 12, 84]. [cite_start]Developed verification environments for **PicoRV32 RISC-V** cores and **AXI4-Lite** protocols.
 * **FPGA & VLSI:** Designing digital systems using **Vivado** and **Verilog**[cite: 16, 18, 26]. [cite_start]Implemented real-time **DSP** techniques for gunshot detection systems.
@@ -14,7 +14,7 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 
 #### **SoC & Processor Verification**
 * **RISC-V UVM Environment:** Developed a UVM-based verification environment for the PicoRV32 RV32IM core using **RISCV-DV** for random instruction generation.
@@ -32,7 +32,7 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 
 ---
 
-### 💻 Technical Toolbox
+### Technical Toolbox
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -43,20 +43,20 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 
 ---
 
-### 📈 Experience & Leadership
+### Experience & Leadership
 * **Electronics Lead @ Rugved Systems:** Leading digital systems development, PCB architecture, and hardware-software integration for autonomous robotics.
 * **Communications Intern @ Tata Power:** Configured Field Remote Terminal Units (FRTUs) and gained experience in substation automation and network management.
 
 ---
 
-### 🏅 Beyond the Code
+### Beyond the Code
 * **Competitions:** E-Yantra 2025 (Balancing Builder Bot), BITS Quark RoboRace 2024, and Technoxian Fastest Line Follower.
 * **Athletics:** Competitive long-distance runner and member of the XC Cross Country Team (2023–2025).
 * **Languages:** English, Hindi, and Bengali.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 * **LinkedIn:** [priyanshu-sil-b0a7551b0](https://linkedin.com/in/priyanshu-sil-b0a7551b0)
 * **Portfolio:** [priyanshu-sil-portfolio.mgx.world](https://priyanshu-sil-portfolio.mgx.world)
 * **Email:** [priyanshu.sil.201529@gmail.com](mailto:priyanshu.sil.201529@gmail.com)
