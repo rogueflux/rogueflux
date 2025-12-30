@@ -39,7 +39,6 @@ I am an aspiring SoC Verification and Embedded Systems Engineer currently pursui
 | **Languages** | SystemVerilog, Verilog, C/C++, Embedded C, Python, Bash |
 | **Protocols** | AXI4, RISC-V ISA, UVM, LoRa, UART, I2C, SPI, CAN, IEC61850/104 |
 | **Software** |  Vivado, STM32CubeIDE, ROS2, MATLAB/Simulink, LTSpice, Ansys |
-| **Infrastructure** | SCADA, MPLS-TP, FRTUs, OTDR Testing, Fiber Splicing |
 
 ---
 
