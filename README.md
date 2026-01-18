@@ -43,7 +43,7 @@ I am an aspiring Embedded Systems and SoC Verification Engineer currently pursui
 ---
 
 ### Experience & Leadership
-* **Electroics Intern @ Tata Advanced Systems:** Supported the design, validation, and integration of optronics and computing hardware through PCB bring-up, lab testing, and technical documentation.
+* **Electronics Intern @ Tata Advanced Systems:** Supported the design, validation, and integration of optronics and computing hardware through PCB bring-up, lab testing, and technical documentation.
 * **Electronics Lead @ Rugved Systems:** Leading digital systems development, PCB architecture, and hardware-software integration for autonomous robotics.
 * **Communications Intern @ Tata Power:** Configured Field Remote Terminal Units (FRTUs) and gained experience in substation automation and network management.
 
