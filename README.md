@@ -30,6 +30,11 @@ I am an aspiring Embedded Systems and SoC Verification Engineer currently pursui
 * **Microphone to FPGA Interface Circuit:** This is a PCB with three-channel microphone interface conditions and digitizes analog audio from lapel mics. It amplifies signals 150×, filters noise, and outputs digital data via SPI.
 * **Portable Ventilator Project:** This project designs a combined medical monitoring platform that integrates rehabilitation tracking and portable ventilator functionality into a single ESP32-powered PCB system.
 
+--- 
+
+### GitHub Stats
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=dark)
+
 ---
 
 ### Technical Toolbox
