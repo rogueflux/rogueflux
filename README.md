@@ -50,8 +50,8 @@ I am an aspiring Embedded Systems and SoC Verification Engineer currently pursui
 ---
 
 ### Beyond the Code
-* **Competitions:** E-Yantra 2025 (Balancing Builder Bot), BITS Quark RoboRace 2024, and Technoxian Fastest Line Follower.
-* **Athletics:** Competitive long-distance runner and member of the XC Cross Country Team (2023–2025).
+* **Competitions:** E-Yantra 2025 (Balancing Builder Bot), BITS Quark RoboRace 2024, and Technoxian Fastest Line Follower 2023.
+* **Athletics:** Athletics Team long-distance runner and member of the XC Cross Country Team (2023–2025).
 * **Languages:** English, Hindi, and Bengali.
 
 ---
