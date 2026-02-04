@@ -43,7 +43,7 @@ Hello! I am an enthusiast and aspiring professional in the fields of Embedded Sy
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | SystemVerilog, Verilog, C/C++, Embedded C, Python, Bash |
+| **Languages** | SystemVerilog, Verilog, C/C++, Embedded C, Python, Bash, Assembly |
 | **Protocols** | AXI4, RISC-V ISA, UVM, LoRa, UART, I2C, SPI, CAN, IEC61850/104 |
 | **Software** |  Vivado, STM32CubeIDE, ROS2, MATLAB/Simulink, LTSpice, Ansys |
 
