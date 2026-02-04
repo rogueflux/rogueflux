@@ -33,7 +33,7 @@ I am an aspiring Embedded Systems and SoC Verification Engineer currently pursui
 --- 
 
 ### GitHub Stats
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=dark)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogueflux&show_icons=true&theme=dark)
 
 ---
 
