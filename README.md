@@ -67,6 +67,3 @@ Hello! I am an enthusiast and aspiring professional in the fields of Embedded Sy
 * **LinkedIn:** [priyanshu-sil-b0a7551b0](https://linkedin.com/in/priyanshu-sil-b0a7551b0)
 * **Portfolio:** [priyanshu-sil-portfolio.mgx.world](https://priyanshu-sil-portfolio.mgx.world)
 * **Email:** [priyanshu.sil.201529@gmail.com](mailto:priyanshu.sil.201529@gmail.com)
-
-
-Teensy 4.1, TI Sitara (AM64x/AM243x) EVMs, BeagleBone Black: The AM335x processor 
